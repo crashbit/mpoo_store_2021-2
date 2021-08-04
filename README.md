@@ -1,2 +1,2 @@
-# mpoo_store_2021-2
+# MPOO Store 2021-2
 Final project for MPOO
